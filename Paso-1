@@ -1,0 +1,7 @@
+#include<stdio.h>
+int main(){
+printf(“Este es mi segundo codigo UwUr”);
+printf(“Programar es facil, o eso espero para pasar x3”);
+printf(“Voy a compartir con vos el codigo”);
+return 0;
+}
